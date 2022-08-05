@@ -303,8 +303,6 @@ h3{
     width: 32%;
     left: 3%;
     top: 467%;
-
-
 }
 
 .ResortP{
@@ -870,10 +868,47 @@ h3{
         display: none;
     }
     div.section2{
-        width: 95%
+        width: 95%;
     }
-    div.section4{
-      
+    div.input{
+        width: 20%;
+        display: none;
+    }
+   div.ll{
+    font-size: 15px;
+   }
+   div.hotel2{
+    font-size: 5px;
 }
 
+    div.view{
+      font-size: 10px;
+      margin-bottom: 20%;
+}
+
+    div.ResortP{
+        font-size: 20px;
+    }
+
+     div.beachp , .circle, .play,
+      .box1, .box2, .palmtree, 
+      .sunrise, .palmtree2, .skyview, 
+      .palmway, .bluebox, .bluebox1, .playfav{
+        display: none;
+     }
+
+       div.section7a{
+        gap: 8%;
+       }
+       div.whatclients{
+        font-size: 30px;
+        margin-top: 5%;
+       }
+       div.section8b{
+        display: none;
+       }
+       div.section8c{
+        margin-left: 5%;
+        margin-top: 4%;
+       }
 }
