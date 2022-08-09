@@ -255,7 +255,6 @@ h3{
 
 .sectiona{
     padding: 0% 1% 7% 3%;
-    margin-bottom: 600px;
 }
 
 .section5b{
@@ -298,11 +297,12 @@ h3{
     line-height: 19px;
 }
 
+.section6{
+    
+}
+
 .Resort{
-    position: absolute;
-    width: 32%;
-    left: 3%;
-    top: 467%;
+    margin-left: 3%;
 }
 
 .ResortP{
@@ -336,100 +336,98 @@ h3{
 
 
 .swimmingelipse{
-    position: absolute;
-    top: 500%;
-    left: 3%;
+    margin-left: 3%;
+    margin-bottom: 2%;
 } 
 
 .swimmingimg{
     position: absolute;
-    bottom:0%;
-    left: 19%;
+    top: 2660px;
+    left: 4.5%;
 }
 
 .swimmingact{
+    position: absolute;
+    top: 2677px;
+    left: 9%;
     font-style: normal;
     font-weight: 600;
     font-size: 26px;
     line-height: 31px;
     color: #000000;
-    position: absolute;
-    bottom: 15%;
-    left:140%
 }
 
 .beachelipse{
-    position: absolute;
-    top: 515%;
-    left: 3%;
+    margin-left: 3%;
+    margin-bottom: 1.2%;
 } 
 
 .beachimg{
     position: absolute;
-    bottom:5%;
-    left: 27%;
+    top: 2745px;
+    left: 5%;
 }
 .beachact{
+    position: absolute;
+    top: 2767px;
+    left: 9%;
     font-style: normal;
     font-weight: 600;
     font-size: 26px;
     line-height: 31px;
     color: #000000;
-    position: absolute;
-    bottom: 44%;
-    left:140%
 }
 .gameelipse{
-    position: absolute;
-    top: 530%;
-    left: 3%;
+    margin-left: 3%;
 } 
 
 .gamesimg{
     position: absolute;
-    bottom:0%;
-    left: 17%;
+    top: 2832px;
+    left: 4.5%;
 }
+
 .gamesact{
+    position: absolute;
+    top: 2855px;
+    left: 9%;
     font-style: normal;
     font-weight: 600;
     font-size: 26px;
     line-height: 31px;
     color: #000000;
-    position: absolute;
-    bottom: 34%;
-    left:140%
 }
 
 
 .beach2{
     position: absolute;
+    top: 2730px;
+    left: 47%;
     width: 53%;
     height: 60%;
-    left: 45%;
-    top: 500%; 
+ 
 }
  
 .beachpicture{
     position: absolute;
+    top: 2555px;
+    left: 54%;
     width: 46%;
     height: 400px;
-    top: 467%;
-    left: 52%; 
 }
 
 .circle{
     position: absolute;
     left: 73%;
     right: 0%;
-    top: 493%;
+    top: 2700px; 
 }
 
 .play{
     position: absolute;
     left: 76%;
     right: 0%;
-    top: 498%;
+    top: 2735px;
     bottom: 0%;
 }
 
@@ -437,14 +435,14 @@ h3{
     position: absolute;
     left: 57%;
     right: 0%;
-    top: 545%;
+    top: 3000px;
     bottom: 0%;
 }
 .box2{
     position: absolute;
     left: 58.4%;
     right: 0%;
-    top: 546.5%;
+    top: 3007px;
     bottom: 0%;
 }
 
@@ -452,7 +450,7 @@ h3{
     position: absolute;
     left: 62%;
     right: 0%;
-    top: 542%;
+    top: 2985px;
     bottom: 0%;
 }
 
@@ -460,7 +458,7 @@ h3{
     position: absolute;
     left: 68%;
     right: 0%;
-    top: 542%;
+    top: 2985px;
     bottom: 0%;
 }
 
@@ -468,7 +466,7 @@ h3{
     position: absolute;
     left: 74%;
     right: 0%;
-    top: 542%;
+    top: 2985px;
     bottom: 0%;
 }
 
@@ -476,7 +474,7 @@ h3{
     position: absolute;
     left: 80%;
     right: 0%;
-    top: 542%;
+    top: 2985px;
     bottom: 0%;
 }
 
@@ -484,7 +482,7 @@ h3{
     position: absolute;
     left: 86%;
     right: 0%;
-    top: 542%;
+    top: 2985px;
     bottom: 0%;
 }
 
@@ -492,14 +490,14 @@ h3{
     position: absolute;
     left: 92%;
     right: 0%;
-    top: 545%;
+    top: 3000px;
     bottom: 0%;
 }
 .bluebox1{
     position: absolute;
     left: 93.4%;
     right: 0%;
-    top: 546.4%;
+    top: 3007px;
     bottom: 0%;
 }
 
@@ -507,17 +505,17 @@ h3{
     position: absolute;
     left: 70%;
     right: 0%;
-    top: 552%;
+    top: 3032px;
     bottom: 0%;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 19px;
-    color: #000000;
+    color: #000000; */
 }
 
 .section7{
-    margin-top: 65%;
+    margin-top: 30%;
     box-sizing: border-box;
     width: 100%;
     height: 4%;
@@ -566,7 +564,6 @@ h3{
     margin-top: 8%;
     margin-left: 4.8%;
     display: flex;
-
 }
 
 .whatclients{
@@ -587,25 +584,25 @@ h3{
 
 .S8b1{
     position: absolute;
-    top: 698%;
+    top: 3915px;
     right: 15%;
 }
 
 .S8b2{
     position: absolute;
-    top: 699%;
+    top: 3919px;
     right: 16.5%;
 }
 
 .S8b3{
     position: absolute;
-    top: 698%;
+    top: 3915px;
     right: 11%;
 }
 
 .S8b4{
     position: absolute;
-    top: 699%;
+    top: 3919px;
     right: 12.5%;
 }
 
@@ -627,7 +624,7 @@ h3{
 
 .enjoyed{
     width: 100%;
-    height: 23%;
+    height: 50px;
     font-style: normal;
     font-weight: 600;
     font-size: 12px;
@@ -637,7 +634,7 @@ h3{
 }
 
 .bestH{
-    margin-top: 6%;
+    margin-top: 30px;
     width: 100%;
     height: 21px;
     font-style: normal;
@@ -647,7 +644,7 @@ h3{
     color: #000000;
 }
 .bestH2{
-    margin-top: 6%;
+    margin-top: 30px;
     width: 100%;
     height: 21px;
     font-style: normal;
@@ -669,31 +666,31 @@ h3{
 
 .jb1{
     position: absolute;
-    top: 740%;
+    top: 4150px;
     left: 12%;
 }
 
 .jb2{
     position: absolute;
-    top: 740%;
+    top: 4150px;
     left: 55%;
 }
 
 .jb3{
     position: absolute;
-    top: 740%;
+    top: 4150px;
     left: 97%;
 }
 
 .phg1{
     position: absolute;
-    top: 744%;
+    top: 4172px;
     left: 12%;
 }
 
 .phg2{
     position: absolute;
-    top: 744%;
+    top: 4172px;
     left: 55%;
 }
 
@@ -715,7 +712,7 @@ h3{
 }
 
 .section9{
-    margin-bottom: 10%;
+    margin-bottom: 50px;
 }
 
 .ayamlekan{
@@ -772,7 +769,7 @@ h3{
     display: flex;
     gap: 30%;
     position: absolute;
-    top: 885%;
+    top: 4928px;
     left: 8.5%;
 }
 
@@ -869,6 +866,7 @@ h3{
     }
     div.section2{
         width: 95%;
+        display: none;
     }
     div.input{
         width: 20%;
